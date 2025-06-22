@@ -1,3 +1,24 @@
+# Welcome to the Rainboe-ESP8266-Homekit Page.
+This is some code that allows you to connect an ESP8266 to Apple Homekit and have it run a rainbow gradient.
+
+## Installation
+
+1. Make sure Arduino IDE is prepped for ESP8266. This means installing the drivers and extensions, more info below.
+2. Make sure ESP8266 is prepped for Arduino. This means flashing it if not done already. This can be done through arduino IDE.
+3. Download the .zip file and open it on your computer. Open the file called simplest_led.ino in Arduino IDE.
+4. Edit the wifi SSID and Password Variables to match your network.
+5. Upload the code to your ESP8266
+6. Wait 20-30 seconds and then open Apple Home.
+7. Select Add Accessory (+ button in the top-right) then "More Options..."
+8. Select your device and follow the setup steps.
+
+
+
+This project is a fork of [Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) by Mixiaoxiao.
+
+
+Below is the original info
+
 # Arduino HomeKit ESP8266 
 
 
