@@ -1,4 +1,4 @@
-# Welcome to the Rainboe-ESP8266-Homekit Page.
+# Welcome to the Rainbow-ESP8266-Homekit Page.
 This is some code that allows you to connect an ESP8266 to Apple Homekit and have it run a rainbow gradient.
 
 ## Installation
